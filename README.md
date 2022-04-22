@@ -6,13 +6,14 @@ http://www.sitedahayapmadıkya.com
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2022 AkasyaCoin Developers
 
+----------------
 AkasyaCoin Nedir?
 ----------------
 
 Akasyacoin Litecoin'in, bir günlük emek sonucu yapılmış bir forkudur. Sizlere, finans sistemdeki sorunları
 Liberteryenizm, Cypherpunk ve Silikon Vadisi zenginlerinin ideolojileri ile uyumlu, her
 yerinde De-Fi, Web3 yazan bir gelecek vaadediyoruz.
-----------------
+
 Ancak hepimiz biliyoruz ki bu vaatlerin hepsi yalan. Günün sonunda önemli olan numaranın
 yukarı gitmesi ve parasını AkasyaCoin'e yatıran Sinan Kaya'nın tesbihini "tırın tırıınınının" diye sallayarak "ZEEENGİİN OLDUUK GÜLİBİK"
 edaları atması ve kayganasına "NAAABEERR KAYGANA GELECEK KRİPTO NFT WEB3 SEN BURADA ANCA BURADA OTUR" diye nispet yapmasıdır. Zaten biliyoruz ki
