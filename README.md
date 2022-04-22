@@ -1,4 +1,4 @@
-AkasyaCoin integration/staging tree
+AkasyaCoin Web3 DeFi Coin
 ================================
 
 http://www.sitedahayapmadıkya.com
